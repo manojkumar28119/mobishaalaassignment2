@@ -1,0 +1,22 @@
+
+
+.item{
+    border: 2px solid #FF407D; 
+    width: 100px;
+    margin-bottom: 4px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.img{
+    height: 40px;
+    width: 40px;
+    border-radius: 30px;
+    margin-right: 10px;
+} 
+
+.para{
+    font-size: 5px;
+    margin: 0px;
+}

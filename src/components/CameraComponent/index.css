@@ -1,0 +1,14 @@
+.web-cam{
+    margin-right: 20px;
+    width: 200px;
+    margin-bottom: 15px;
+}
+.btn{
+    background-color: #00A9FF;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    color: #ffffff;
+    cursor: pointer;
+    width: 100%;
+  }
